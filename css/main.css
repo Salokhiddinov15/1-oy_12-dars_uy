@@ -1,0 +1,24 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main{
+  background-image: url('../image/Pattern.svg');
+}
+
+header{
+  width: 1440px;
+  height: 100px;
+  background-color: aqua; 
+  margin: auto;
+  
+}
+.collection{
+  display: flex;
+  list-style: none;
+  justify-content: end;
+  margin-right: 40px;
+  align-items: center;
+}
